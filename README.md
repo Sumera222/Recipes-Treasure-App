@@ -10,5 +10,6 @@ Technologies used:
 VS Code (as Editor)
 Browser (as runtime environment)
 # How to run code in this repo?
-To run this app, click live github link: . OR
-open index.html in your browser.
+To run this app:
+1) click live github link: https://sumera222.github.io/Recipes-Treasure-App/ OR
+2) open index.html in your browser.
