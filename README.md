@@ -13,3 +13,5 @@ Browser (as runtime environment)
 To run this app:
 1) click live github link: https://sumera222.github.io/Recipes-Treasure-App/ OR
 2) open index.html in your browser.
+# Repo Link
+https://github.com/Sumera222/Recipes-Treasure-App
