@@ -29,7 +29,7 @@ header {
     justify-content: center;
     align-items: center;
     padding: 10px;
-    border: olive solid 6.5px;
+    border: darkred solid 6.5px;
     border-radius: 10px;
     background-image: linear-gradient(to bottom, white, rgb(255, 255, 255));
     margin-left: 20px;
@@ -38,32 +38,32 @@ header {
     font-size: 30px;
     font-weight: bold;
     margin-bottom: 60px;
-    box-shadow: 0 8px 16px 0 rgb(160, 20, 27), 0 6px 20px 0 rgba(0, 0, 0, 0.993);
-    color: olivedrab;
+    box-shadow: 0 8px 26px 0 rgb(102, 5, 126), 0 6px 20px 0 rgba(0, 0, 0, 0.993);
+    color: rgb(124, 16, 70);
 }
 
 .recipe-container {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    border: 2px solid olive;
+    border: 3px solid rgb(94, 2, 94);
     border-radius: 10px;
     margin-left: 20px;
     margin-right: 20px;
-    box-shadow: 0 8px 16px 0 olivedrab, 0 6px 20px 0 maroon;
+    box-shadow: 0 8px 16px 0 rgb(184, 190, 172), 0 6px 20px 0 royalblue;
     /* opacity: 0.5; */
     /* z-index:0; */
 }
 
 .recipe-card {
-    color: olivedrab;
+    color: rgb(231, 162, 240);
     font-style: oblique;
     font-weight: bolder;
     background-image: none;
     background-repeat: no-repeat;
     background-size: contain;
     background-position: top center;
-    background-image: linear-gradient(to top, olivedrab, lime);
+    background-image: pink;
     padding: 135px 0px 0px 10px;
     font-family: 'Otomanopee One', sans-serif;
     width: 270px;
@@ -72,7 +72,7 @@ header {
     text-align: center;
     font-size: 22px;
     border: orange;
-    border-radius: 10px;
+    border-radius: 20px;
     box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
     background: rgba(76, 175, 80, 0.1);
     /* background: rgba(76, 175, 80, 0.6); */
